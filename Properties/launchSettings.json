@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "consumer": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\repo\\kafka-dotnet-getting-started\\getting_started.properties"
+    }
+  }
+}

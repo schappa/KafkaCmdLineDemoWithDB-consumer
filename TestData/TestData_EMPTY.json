@@ -1,0 +1,29 @@
+{
+	"PacketRcvd": "1672179636",
+	"PacketQty": "3",
+	"PacketId":"567EC482-A595-4CDE-B689-DF96E1FD27AD",
+	"Items": [
+		{
+			"Name": "",
+			"LotNum": "",
+			"Qty": "",
+			"Dose": "",
+			"DoseMeasurement": ""
+		},
+		{
+			"Name": "",
+			"LotNum": "",
+			"Qty": "",
+			"Dose": "",
+			"DoseMeasurement": ""
+		},
+		{
+			"Name": "",
+			"LotNum": "",
+			"Qty": "",
+			"Dose": "",
+			"DoseMeasurement": ""
+		}		  
+	  
+	]
+}
